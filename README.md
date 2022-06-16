@@ -1,4 +1,5 @@
-# device_info_plus
+# 个人用：移除androidid，为了华为审核
+# device_info_plus-3.2.3
 
 [![Flutter Community: device_info_plus](https://fluttercommunity.dev/_github/header/device_info_plus)](https://github.com/fluttercommunity/community)
 
